@@ -1,5 +1,5 @@
 {
-  "name": "react-datepicker",
+  "name": "react-datepicker-ms",
   "version": "1.0.0",
   "license": "MIT",
   "description": "",
@@ -32,6 +32,7 @@
     "react-component",
     "react-datepicker",
     "react datepicker",
+    "react-datepicker-ms",
     "typescript datepicker"
   ],
   "author": "Mathieu Schaff (MathieuSchaff)",
